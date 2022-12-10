@@ -24,7 +24,7 @@ if __name__ == "__main__":
 
 
     # final dimension in pixel
-    dim = 4000
+    dim = 10000
     # On veut qu'en (2000, 2000), on aie le point (2 + 2i)
     # et qu'en      (300,300), on aie             (??? + ???i)
     # 2000 = 2

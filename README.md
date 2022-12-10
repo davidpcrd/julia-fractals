@@ -2,19 +2,19 @@
 Generate julia set with Python
 ## Results
 c = -0.75+0.11i
-![image of a julia set with c = -0.75+0.11i](images/[-0.75+0.11i].10000x10000.png "c = -0.75+0.11i")
+![image of a julia set with c = -0.75+0.11i](images/[-0.75+0.11i].1000x1000.png "c = -0.75+0.11i")
 
 c = -0.443-0.592i
-![image of a julia set with c = -0.443-0.592i](images/[-0.443+-0.592i].10000x10000.png "c = -0.443-0.592i")
+![image of a julia set with c = -0.443-0.592i](images/[-0.443+-0.592i].1000x1000.png "c = -0.443-0.592i")
 
 c = -1.2+0i
-![image of a julia set with c = -1.2+0i](images/[-1.2+0i].10000x10000.png "c = -1.2+0i")
+![image of a julia set with c = -1.2+0i](images/[-1.2+0i].1000x1000.png "c = -1.2+0i")
 
 c = 0.243+0.545i
-![image of a julia set with c = 0.243+0.545i](images/[0.243+0.545i].10000x10000.png "c = 0.243+0.545i")
+![image of a julia set with c = 0.243+0.545i](images/[0.243+0.545i].1000x1000.png "c = 0.243+0.545i")
 
 c = 0+0i
-![image of a julia set with c = 0+0i](images/[0+0i].10000x10000.png "c = 0+0i")
+![image of a julia set with c = 0+0i](images/[0+0i].1000x1000.png "c = 0+0i")
 
 ## Set-up
 ```bash
